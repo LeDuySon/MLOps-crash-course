@@ -1,0 +1,7 @@
+data/mock*
+data/train*
+data_sources
+feature_repo
+scripts/
+
+jenkins/run_env
