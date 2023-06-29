@@ -52,3 +52,5 @@ def batch_prediction():
 
 if __name__ == "__main__":
     batch_prediction()
+    
+    print("haha")
